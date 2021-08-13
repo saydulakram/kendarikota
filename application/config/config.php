@@ -24,7 +24,7 @@ date_default_timezone_set("Asia/makassar");
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'localhost/kendarikota';
+$config['base_url'] = 'http://localhost/kendarikota';
 
 /*
 |--------------------------------------------------------------------------
