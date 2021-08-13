@@ -604,20 +604,6 @@
                     </div>
                 </div>
                 <!--Footer Widget End-->
-
-                <!--Footer Widget Start-->
-                <div class="col-md-4 col-sm-6">
-                    <div class="twitter-widget">
-                        <div class="tw-txt">
-                            <h6>@diskominfokendari</h6>
-                            <a href="#" class="reply-tw"><i class="fas fa-reply"></i></a>
-                            <p></p>
-                        </div>
-                        <div class="tw-footer"> @Kendarikota.go.id <strong></strong> <i class="fab fa-twitter"></i>
-                        </div>
-                    </div>
-                </div>
-                <!--Footer Widget End-->
             </div>
         </div>
     </footer>
